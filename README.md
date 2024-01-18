@@ -1,7 +1,3 @@
-## Check the Yuri Tweet Deleter
-
-https://fellipec.github.io/YuriTweetDeleter/
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fellipec/fellipec.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
